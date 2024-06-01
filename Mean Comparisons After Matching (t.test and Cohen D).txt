@@ -1,0 +1,888 @@
+$AGE19
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 4.577840917, df = 164.3053154, p-value = 0.00000922956347
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ 0.409075162931 1.029604082352
+sample estimates:
+mean in group 0 mean in group 1 
+  36.7570754717   36.0377358491 
+
+
+$PIB16
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 0.3918866174, df = 166.9213898, p-value = 0.695641859
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.0571398109840  0.0854416977764
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.136792452830  0.122641509434 
+
+
+$Hispanic
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 0.4935083768, df = 166.0869624, p-value = 0.622305369
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.0636928654803  0.1061456956689
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.209905660377  0.188679245283 
+
+
+$White
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -2.2216265, df = 157.1758644, p-value = 0.0277373215
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.227222529493 -0.013343508243
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.370283018868  0.490566037736 
+
+
+$Black
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 2.497447177, df = 162.293985, p-value = 0.0135059098
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ 0.0281393222349 0.2407286022934
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.549528301887  0.415094339623 
+
+
+$AIndian
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -0.4714664459, df = 132.3100731, p-value = 0.638084178
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.0245072604100  0.0150732981458
+sample estimates:
+ mean in group 0  mean in group 1 
+0.00471698113208 0.00943396226415 
+
+
+$Asian
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -1.4209964, df = 105, p-value = 0.158280847
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.04519565409585  0.00745980503925
+sample estimates:
+mean in group 0 mean in group 1 
+0.0000000000000 0.0188679245283 
+
+
+$Other
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 0.3439407023, df = 168.9459364, p-value = 0.731318572
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.0447138370014  0.0635817615297
+sample estimates:
+mean in group 0 mean in group 1 
+0.0754716981132 0.0660377358491 
+
+
+$Other_R
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -0.4501830524, df = 153.0775682, p-value = 0.653215355
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.0762509128417  0.0479490260492
+sample estimates:
+mean in group 0 mean in group 1 
+0.0801886792453 0.0943396226415 
+
+
+$Male
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -0.110365409, df = 162.2614907, p-value = 0.912255971
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.0891146581332  0.0796806958691
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.806603773585  0.811320754717 
+
+
+$Sample
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 4.827244415, df = 167.1547523, p-value = 0.00000310532307
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ 0.147754420153 0.352245579847
+sample estimates:
+mean in group 0 mean in group 1 
+  1.58018867925   1.33018867925 
+
+
+$BBPHH
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 1.870256646, df = 174.8069537, p-value = 0.0631199482
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.00482317859293  0.17935148047973
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.313679245283  0.226415094340 
+
+
+$CC1Y
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 0.767446207, df = 167.2779097, p-value = 0.443898152
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.0556305113406  0.1263852283217
+sample estimates:
+mean in group 0 mean in group 1 
+  0.26179245283   0.22641509434 
+
+
+$HT97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 0.7369518402, df = 172.6506983, p-value = 0.462151901
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.0435415535243  0.0954283459771
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.139150943396  0.113207547170 
+
+
+$HHNW97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -1.326641979, df = 126.702244, p-value = 0.187013261
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -28524.80178160   5628.33951745
+sample estimates:
+mean in group 0 mean in group 1 
+  31621.6462264   43069.8773585 
+
+
+$BMEA97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -0.598246477, df = 154.9757293, p-value = 0.550548793
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.740668685540  0.396329062899
+sample estimates:
+mean in group 0 mean in group 1 
+  11.2712264151   11.4433962264 
+
+
+$BFEA97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -0.9305475778, df = 168.5739077, p-value = 0.353418331
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.861351305239  0.309464512786
+sample estimates:
+mean in group 0 mean in group 1 
+  10.8183962264   11.0943396226 
+
+
+$RPHEALTH97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -1.198491248, df = 168.3802252, p-value = 0.232409928
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.387090330011  0.094637499822
+sample estimates:
+mean in group 0 mean in group 1 
+  3.03301886792   3.17924528302 
+
+
+$SSAS97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -0.04296475242, df = 185.4416449, p-value = 0.965775858
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.331964265524  0.317813322128
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.653301886792  0.660377358491 
+
+
+$THAS97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -0.8493823498, df = 149.5120257, p-value = 0.397026564
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.855122131560  0.340971188164
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.827830188679  1.084905660377 
+
+
+$PFAS97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -1.062112576, df = 235.8031699, p-value = 0.289271136
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -1.131172882133  0.338720051945
+sample estimates:
+mean in group 0 mean in group 1 
+  1.15094339623   1.54716981132 
+
+
+$LFS97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 0.1628865809, df = 222.8407788, p-value = 0.870755352
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -1.98933544530  2.34782601134
+sample estimates:
+mean in group 0 mean in group 1 
+  4.58490566038   4.40566037736 
+
+
+$ABFS97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -0.3320009183, df = 159.0585309, p-value = 0.740325648
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -3.67103801722  2.61443424363
+sample estimates:
+mean in group 0 mean in group 1 
+  9.10377358491   9.63207547170 
+
+
+$RTGAS97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -0.4016104617, df = 153.3096874, p-value = 0.688530005
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.209401812694  0.138647095712
+sample estimates:
+mean in group 0 mean in group 1 
+  2.69103773585   2.72641509434 
+
+
+$RDFAS97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -0.1833585602, df = 157.8143198, p-value = 0.854752053
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.194346499133  0.161327631208
+sample estimates:
+mean in group 0 mean in group 1 
+  2.74764150943   2.76415094340 
+
+
+$PPSM97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 0.3430681856, df = 152.0297712, p-value = 0.732021083
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.258147157773  0.366637723810
+sample estimates:
+mean in group 0 mean in group 1 
+  3.05424528302   3.00000000000 
+
+
+$PPDR97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 0.09466954065, df = 157.988692, p-value = 0.924697275
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.281080567926  0.309382454719
+sample estimates:
+mean in group 0 mean in group 1 
+  2.41037735849   2.39622641509 
+
+
+$PPIG97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 0.8355571509, df = 161.5057817, p-value = 0.404638482
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.167210239907  0.412493258775
+sample estimates:
+mean in group 0 mean in group 1 
+  2.22641509434   2.10377358491 
+
+
+$PPID97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 0.01448577615, df = 152.5237382, p-value = 0.988461358
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.319303742359  0.324020723491
+sample estimates:
+mean in group 0 mean in group 1 
+  2.67216981132   2.66981132075 
+
+
+$PPHS97
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 1.480884777, df = 160.5017855, p-value = 0.140597692
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.075523907050  0.528354095729
+sample estimates:
+mean in group 0 mean in group 1 
+  3.36792452830   3.14150943396 
+
+
+$JIJF
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -3.674766691, df = 109.281426, p-value = 0.000370587395
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.1887856974954 -0.0564973213725
+sample estimates:
+ mean in group 0  mean in group 1 
+0.00943396226415 0.13207547169811 
+
+
+$NMI_B18
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -8.278046905, df = 105, p-value = 0.000000000000428392624
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -8.03353783236 -4.92872631859
+sample estimates:
+mean in group 0 mean in group 1 
+  0.00000000000   6.48113207547 
+
+
+$NMI_A18
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -6.272036852, df = 115.0095678, p-value = 0.00000000645651325
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -36.1290632447 -18.7860310950
+sample estimates:
+mean in group 0 mean in group 1 
+   4.9858490566   32.4433962264 
+
+
+$NA_B18
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -12.39462958, df = 105, p-value < 0.0000000000000002220446
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -4.86970108623 -3.52652532887
+sample estimates:
+mean in group 0 mean in group 1 
+  0.00000000000   4.19811320755 
+
+
+$NA_A18
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -5.068819624, df = 134.5712321, p-value = 0.00000129699068
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -4.19348943267 -1.83952943525
+sample estimates:
+mean in group 0 mean in group 1 
+  1.41745283019   4.43396226415 
+
+
+$Years_Till_Victim
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = 2.602945205, df = 156.7233824, p-value = 0.0101299118
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ 0.237748380743 1.733949732464
+sample estimates:
+mean in group 0 mean in group 1 
+  12.6839622642   11.6981132075 
+
+
+$VVictim_A18
+
+	Welch Two Sample t-test
+
+data:  x by H_M.DF$B18_INCAF
+t = -2.123269018, df = 140.3493074, p-value = 0.0354859113
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -0.17762628216150 -0.00633598198944
+sample estimates:
+mean in group 0 mean in group 1 
+ 0.125000000000  0.216981132075 
+
+
+$AGE19
+
+Cohen's d
+
+d estimate: 0.490449946183 (small)
+95 percent confidence interval:
+         lower          upper 
+0.275079674087 0.705820218278 
+
+
+$PIB16
+
+Cohen's d
+
+d estimate: 0.0414729329769 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.171869234611  0.254815100565 
+
+
+$Hispanic
+
+Cohen's d
+
+d estimate: 0.0524291837489 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.160921762036  0.265780129534 
+
+
+$White
+
+Cohen's d
+
+d estimate: -0.24685872929 (small)
+95 percent confidence interval:
+           lower            upper 
+-0.4607055887278 -0.0330118698519 
+
+
+$Black
+
+Cohen's d
+
+d estimate: 0.270206143992 (small)
+95 percent confidence interval:
+          lower           upper 
+0.0562565467475 0.4841557412359 
+
+
+$AIndian
+
+Cohen's d
+
+d estimate: -0.0627755449761 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.276136660427  0.150585570475 
+
+
+$Asian
+
+Cohen's d
+
+d estimate: -0.309501213974 (small)
+95 percent confidence interval:
+           lower            upper 
+-0.5236445392517 -0.0953578886963 
+
+
+$Other
+
+Cohen's d
+
+d estimate: 0.0360679405745 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.177270650940  0.249406532089 
+
+
+$Other_R
+
+Cohen's d
+
+d estimate: -0.0512020357093 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.264551896450  0.162147825031 
+
+
+$Male
+
+Cohen's d
+
+d estimate: -0.011942686687 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.225271394866  0.201386021492 
+
+
+$Sample
+
+Cohen's d
+
+d estimate: 0.510316441785 (medium)
+95 percent confidence interval:
+         lower          upper 
+0.294778191641 0.725854691930 
+
+
+$BBPHH
+
+Cohen's d
+
+d estimate: 0.191319538789 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0223200624818  0.4049591400590 
+
+
+$CC1Y
+
+Cohen's d
+
+d estimate: 0.0810856580619 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.132297929828  0.294469245952 
+
+
+$HT97
+
+Cohen's d
+
+d estimate: 0.076058518732 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.137318329797  0.289435367261 
+
+
+$HHNW97
+
+Cohen's d
+
+d estimate: -0.187607209001 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.4012348239507  0.0260204059494 
+
+
+$BMEA97
+
+Cohen's d
+
+d estimate: -0.0672959648787 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.280662096753  0.146070166996 
+
+
+$BFEA97
+
+Cohen's d
+
+d estimate: -0.0977451748855 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.311154176690  0.115663826919 
+
+
+$RPHEALTH97
+
+Cohen's d
+
+d estimate: -0.125999163028 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.3394620808572  0.0874637548014 
+
+
+$SSAS97
+
+Cohen's d
+
+d estimate: -0.00422353649115 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.217551179832  0.209104106850 
+
+
+$THAS97
+
+Cohen's d
+
+d estimate: -0.0987454130643 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.312156091295  0.114665265166 
+
+
+$PFAS97
+
+Cohen's d
+
+d estimate: -0.0914925401478 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.304891448914  0.121906368618 
+
+
+$LFS97
+
+Cohen's d
+
+d estimate: 0.014424982598 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.198904284089  0.227754249285 
+
+
+$ABFS97
+
+Cohen's d
+
+d estimate: -0.0365199024045 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.249858773849  0.176818969040 
+
+
+$RTGAS97
+
+Cohen's d
+
+d estimate: -0.0456149916316 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.258960237073  0.167730253810 
+
+
+$RDFAS97
+
+Cohen's d
+
+d estimate: -0.0203036136157 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.233634622369  0.193027395138 
+
+
+$PPSM97
+
+Cohen's d
+
+d estimate: 0.0392646769891 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.174075969337  0.252605323316 
+
+
+$PPDR97
+
+Cohen's d
+
+d estimate: 0.01047308103 (negligible)
+95 percent confidence interval:
+         lower          upper 
+-0.20285534605  0.22380150811 
+
+
+$PPIG97
+
+Cohen's d
+
+d estimate: 0.0907587085191 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.122639059394  0.304156476432 
+
+
+$PPID97
+
+Cohen's d
+
+d estimate: 0.00165299722197 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.211674517219  0.214980511663 
+
+
+$PPHS97
+
+Cohen's d
+
+d estimate: 0.161678117115 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0518723111549  0.3752285453842 
+
+
+$JIJF
+
+Cohen's d
+
+d estimate: -0.702042570599 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.919535058779 -0.484550082419 
+
+
+$NMI_B18
+
+Cohen's d
+
+d estimate: -1.80300637362 (large)
+95 percent confidence interval:
+         lower          upper 
+-2.04247221307 -1.56354053417 
+
+
+$NMI_A18
+
+Cohen's d
+
+d estimate: -1.05501945453 (large)
+95 percent confidence interval:
+          lower           upper 
+-1.277642333684 -0.832396575371 
+
+
+$NA_B18
+
+Cohen's d
+
+d estimate: -2.69962183048 (large)
+95 percent confidence interval:
+         lower          upper 
+-2.96802788588 -2.43121577508 
+
+
+$NA_A18
+
+Cohen's d
+
+d estimate: -0.66054945355 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.877568218683 -0.443530688417 
+
+
+$Years_Till_Victim
+
+Cohen's d
+
+d estimate: 0.289948228438 (small)
+95 percent confidence interval:
+          lower           upper 
+0.0759045619958 0.5039918948799 
+
+
+$VVictim_A18
+
+Cohen's d
+
+d estimate: -0.263405761887 (small)
+95 percent confidence interval:
+           lower            upper 
+-0.4773244823277 -0.0494870414466 
+
+

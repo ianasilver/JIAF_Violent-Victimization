@@ -1,0 +1,405 @@
+[1] "# Year_1"
+[1] "# Complete Cases (0 = incomeplete cases; 1 = complete cases)"
+
+   0    1 
+7128 1833 
+$AGE19
+
+Cohen's d
+
+d estimate: -1.27623512441 (large)
+95 percent confidence interval:
+         lower          upper 
+-1.33086635056 -1.22160389826 
+
+
+$PIB16
+
+Cohen's d
+
+d estimate: 0.064658010083 (negligible)
+95 percent confidence interval:
+          lower           upper 
+0.0121841292753 0.1171318908907 
+
+
+$Hispanic
+
+Cohen's d
+
+d estimate: 0.0309342834113 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0204204829436  0.0822890497662 
+
+
+$White
+
+Cohen's d
+
+d estimate: -0.109196666743 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.1606163764410 -0.0577769570452 
+
+
+$Black
+
+Cohen's d
+
+d estimate: 0.109305537857 (negligible)
+95 percent confidence interval:
+         lower          upper 
+0.057885778123 0.160725297591 
+
+
+$AIndian
+
+Cohen's d
+
+d estimate: 0.0132224542904 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0381725368904  0.0646174454712 
+
+
+$Asian
+
+Cohen's d
+
+d estimate: 0.0438250239307 (negligible)
+95 percent confidence interval:
+            lower             upper 
+-0.00757364093455  0.09522368879594 
+
+
+$Other
+
+Cohen's d
+
+d estimate: -0.00476024791341 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0561549188635  0.0466344230367 
+
+
+$Other_R
+
+Cohen's d
+
+d estimate: 0.0151659071362 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0362292001459  0.0665610144182 
+
+
+$Male
+
+Cohen's d
+
+d estimate: 0.0396200866864 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0117189432781  0.0909591166510 
+
+
+$Sample
+
+Cohen's d
+
+d estimate: 0.0849820834956 (negligible)
+95 percent confidence interval:
+         lower          upper 
+0.033631252573 0.136332914418 
+
+
+$BBPHH
+
+Cohen's d
+
+d estimate: -0.156503275164 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.207890149238 -0.105116401091 
+
+
+$CC1Y
+
+Cohen's d
+
+d estimate: 0.00692010871542 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0454294531938  0.0592696706246 
+
+
+$HT97
+
+Cohen's d
+
+d estimate: 0.00445462349159 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0478314959623  0.0567407429454 
+
+
+$HHNW97
+
+Cohen's d
+
+d estimate: -0.160077676773 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.214010322771 -0.106145030775 
+
+
+$BMEA97
+
+Cohen's d
+
+d estimate: -0.0632045627322 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.1151130935152 -0.0112960319492 
+
+
+$BFEA97
+
+Cohen's d
+
+d estimate: 0.0286941263005 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0244657855352  0.0818540381361 
+
+
+$RPHEALTH97
+
+Cohen's d
+
+d estimate: -0.0181107655051 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0703364329879  0.0341149019777 
+
+
+$SSAS97
+
+Cohen's d
+
+d estimate: 0.0649311927552 (negligible)
+95 percent confidence interval:
+         lower          upper 
+0.013501944461 0.116360441049 
+
+
+$THAS97
+
+Cohen's d
+
+d estimate: -0.0250294259882 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0764526167001  0.0263937647237 
+
+
+$PFAS97
+
+Cohen's d
+
+d estimate: 0.0684444296871 (negligible)
+95 percent confidence interval:
+          lower           upper 
+0.0170149531351 0.1198739062390 
+
+
+$LFS97
+
+Cohen's d
+
+d estimate: -0.141734236746 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.1932354528983 -0.0902330205945 
+
+
+$ABFS97
+
+Cohen's d
+
+d estimate: -0.151292790456 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.2029057515496 -0.0996798293628 
+
+
+$RTGAS97
+
+Cohen's d
+
+d estimate: 0.0619819748211 (negligible)
+95 percent confidence interval:
+          lower           upper 
+0.0106241405336 0.1133398091087 
+
+
+$RDFAS97
+
+Cohen's d
+
+d estimate: 0.174490868406 (negligible)
+95 percent confidence interval:
+         lower          upper 
+0.123060923126 0.225920813686 
+
+
+$PPSM97
+
+Cohen's d
+
+d estimate: -0.493505427392 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.545436650285 -0.441574204499 
+
+
+$PPDR97
+
+Cohen's d
+
+d estimate: -0.647790920812 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.700150399728 -0.595431441896 
+
+
+$PPIG97
+
+Cohen's d
+
+d estimate: -0.0677474743935 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.1192219989942 -0.0162729497928 
+
+
+$PPID97
+
+Cohen's d
+
+d estimate: -0.524281586795 (medium)
+95 percent confidence interval:
+          lower           upper 
+-0.576371889352 -0.472191284238 
+
+
+$PPHS97
+
+Cohen's d
+
+d estimate: 0.0669506003118 (negligible)
+95 percent confidence interval:
+           lower            upper 
+0.00433342778302 0.12956777284064 
+
+
+$JIJF
+
+Cohen's d
+
+d estimate: 0.0270169877038 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0243202885818  0.0783542639893 
+
+
+$NMI_B18
+
+Cohen's d
+
+d estimate: 0.0269184243949 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0244188407899  0.0782556895797 
+
+
+$NMI_A18
+
+Cohen's d
+
+d estimate: 0.0681144650948 (negligible)
+95 percent confidence interval:
+         lower          upper 
+0.016769025448 0.119459904741 
+
+
+$NA_B18
+
+Cohen's d
+
+d estimate: 0.0868517736771 (negligible)
+95 percent confidence interval:
+          lower           upper 
+0.0354980544745 0.1382054928797 
+
+
+$NA_A18
+
+Cohen's d
+
+d estimate: -0.0182009035097 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0695373473536  0.0331355403342 
+
+
+$B18_INCAF
+
+Cohen's d
+
+d estimate: 0.0456536753501 (negligible)
+95 percent confidence interval:
+            lower             upper 
+-0.00568642894023  0.09699377964036 
+
+
+$B18_ARREST
+
+Cohen's d
+
+d estimate: 0.0386519871317 (negligible)
+95 percent confidence interval:
+           lower            upper 
+-0.0126868846072  0.0899908588706 
+
+
+$B18_NOARREST
+
+Cohen's d
+
+d estimate: -0.0506583765989 (negligible)
+95 percent confidence interval:
+             lower              upper 
+-0.101999487345368  0.000682734147522 
+
+
+$Years_Till_Victim
+
+Cohen's d
+
+d estimate: -0.443990789996 (small)
+95 percent confidence interval:
+          lower           upper 
+-0.495736551835 -0.392245028157 
+
+
+$VVictim_A18
+
+Cohen's d
+
+d estimate: -0.0682942042486 (negligible)
+95 percent confidence interval:
+          lower           upper 
+-0.119980597732 -0.016607810765 
+
+
